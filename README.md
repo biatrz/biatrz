@@ -3,7 +3,7 @@
 - 👋 Hello,what's up? I’m Beatriz,i have 20 years old.
 - 👀 I’m interested in tecnology,pop culture and self development.
 - 🌱 I’m currently learning the C programming language.
-- 📫 I'm from São Paulo,Brazil.
+- 📫 I'm from an inland citie of São Paulo,Brazil.
 
 
 <!---
